@@ -1,0 +1,11 @@
+C:\Users\vedas.MANI-DELL\source\repos\Name List App\Name List App\bin\Debug\Name List App.exe.config
+C:\Users\vedas.MANI-DELL\source\repos\Name List App\Name List App\bin\Debug\Name List App.exe
+C:\Users\vedas.MANI-DELL\source\repos\Name List App\Name List App\bin\Debug\Name List App.pdb
+C:\Users\vedas.MANI-DELL\source\repos\Name List App\Name List App\obj\Debug\Name List App.csproj.AssemblyReference.cache
+C:\Users\vedas.MANI-DELL\source\repos\Name List App\Name List App\obj\Debug\Name List App.csproj.SuggestedBindingRedirects.cache
+C:\Users\vedas.MANI-DELL\source\repos\Name List App\Name List App\obj\Debug\Name_List_App.Form1.resources
+C:\Users\vedas.MANI-DELL\source\repos\Name List App\Name List App\obj\Debug\Name_List_App.Properties.Resources.resources
+C:\Users\vedas.MANI-DELL\source\repos\Name List App\Name List App\obj\Debug\Name List App.csproj.GenerateResource.cache
+C:\Users\vedas.MANI-DELL\source\repos\Name List App\Name List App\obj\Debug\Name List App.csproj.CoreCompileInputs.cache
+C:\Users\vedas.MANI-DELL\source\repos\Name List App\Name List App\obj\Debug\Name List App.exe
+C:\Users\vedas.MANI-DELL\source\repos\Name List App\Name List App\obj\Debug\Name List App.pdb
